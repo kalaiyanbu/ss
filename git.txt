@@ -4,4 +4,4 @@ git config --global user.name "git"
 git config --global user.email "kalaiyanbu111@gmail.com"
 git commit --m "text"
 git remote add link
-git link master
+git push link master
